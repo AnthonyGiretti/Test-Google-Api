@@ -1,0 +1,140 @@
+{
+  "version": 2,
+  "dgSpecHash": "7a1xMvFsh+PpmmDheUZL+JYElsVX99VKXxHsHIO2dlurgxZqIOJIr7vBKRwT8bD9RtR25czz51EOG7bEWr/dNg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\antho\\Desktop\\Integration.Shared.Google\\Integration.Shared.Google.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.ads.gax\\4.0.0\\google.ads.gax.4.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.ads.googleads\\19.0.1\\google.ads.googleads.19.0.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.ads.googleads.core\\4.0.0\\google.ads.googleads.core.4.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.api.commonprotos\\2.13.0\\google.api.commonprotos.2.13.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.api.gax\\4.5.0\\google.api.gax.4.5.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.api.gax.grpc\\4.5.0\\google.api.gax.grpc.4.5.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.api.gax.grpc.grpccore\\3.7.0\\google.api.gax.grpc.grpccore.3.7.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.apis\\1.66.0\\google.apis.1.66.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.apis.auth\\1.66.0\\google.apis.auth.1.66.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.apis.core\\1.66.0\\google.apis.core.1.66.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.longrunning\\3.0.0\\google.longrunning.3.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\google.protobuf\\3.25.0\\google.protobuf.3.25.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\grpc.auth\\2.60.0\\grpc.auth.2.60.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\grpc.core\\2.41.0\\grpc.core.2.41.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\grpc.core.api\\2.60.0\\grpc.core.api.2.60.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\grpc.net.common\\2.60.0\\grpc.net.common.2.60.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\microsoft.extensions.logging.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging.console\\6.0.0\\microsoft.extensions.logging.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Google.Api.Gax.Grpc 4.5.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Google.Api.Gax.Grpc 4.5.0 does not support any target frameworks.",
+      "libraryId": "Google.Api.Gax.Grpc",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Google.Api.CommonProtos 2.13.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Google.Api.CommonProtos 2.13.0 does not support any target frameworks.",
+      "libraryId": "Google.Api.CommonProtos",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Google.Api.Gax 4.5.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Google.Api.Gax 4.5.0 does not support any target frameworks.",
+      "libraryId": "Google.Api.Gax",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Google.Apis.Auth 1.66.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Google.Apis.Auth 1.66.0 does not support any target frameworks.",
+      "libraryId": "Google.Apis.Auth",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Grpc.Auth 2.60.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Grpc.Auth 2.60.0 does not support any target frameworks.",
+      "libraryId": "Grpc.Auth",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Grpc.Core.Api 2.60.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Grpc.Core.Api 2.60.0 does not support any target frameworks.",
+      "libraryId": "Grpc.Core.Api",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Grpc.Net.Client 2.60.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Grpc.Net.Client 2.60.0 does not support any target frameworks.",
+      "libraryId": "Grpc.Net.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Google.Apis.Core 1.66.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Google.Apis.Core 1.66.0 does not support any target frameworks.",
+      "libraryId": "Google.Apis.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Google.Apis 1.66.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Google.Apis 1.66.0 does not support any target frameworks.",
+      "libraryId": "Google.Apis",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Grpc.Net.Common 2.60.0 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Grpc.Net.Common 2.60.0 does not support any target frameworks.",
+      "libraryId": "Grpc.Net.Common",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

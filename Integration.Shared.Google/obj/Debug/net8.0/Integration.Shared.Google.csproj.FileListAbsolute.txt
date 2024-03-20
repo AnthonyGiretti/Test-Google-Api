@@ -1,0 +1,16 @@
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\bin\Debug\net8.0\Integration.Shared.Google.deps.json
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\bin\Debug\net8.0\Integration.Shared.Google.dll
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\bin\Debug\net8.0\Integration.Shared.Google.pdb
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\bin\Debug\net8.0\Integration.Shared.Domain.dll
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\bin\Debug\net8.0\Integration.Shared.Domain.pdb
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.csproj.AssemblyReference.cache
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.AssemblyInfoInputs.cache
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.AssemblyInfo.cs
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.csproj.CoreCompileInputs.cache
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.sourcelink.json
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integrat.E9B6B743.Up2Date
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.dll
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\refint\Integration.Shared.Google.dll
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\Integration.Shared.Google.pdb
+D:\Marchex\MarketingEdge-ENU\MarketingEdge\Services\AzureIntegrationServices\IntegrationServices\Integration.Shared.Google\obj\Debug\net8.0\ref\Integration.Shared.Google.dll
